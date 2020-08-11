@@ -1,0 +1,100 @@
+/* CSS Document */ 
+
+.offscreen { 
+  position: absolute; 
+  top: -30em; 
+  left: -300em; 
+} 
+
+div#hmenu { 
+   margin: 0; 
+   padding: .3em 0 .3em 0; 
+   background: #ddeebb; 
+   width: 50%; 
+   text-align: center; 
+} 
+
+div#hmenu ul { 
+   list-style: none; 
+   margin: 0; 
+   padding: 0; 
+} 
+
+div#hmenu ul li { 
+   margin: 0; 
+   padding: 0; 
+   display: inline; 
+} 
+
+div#hmenu ul a:link{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #004415; 
+} 
+
+div#hmenu ul a:visited{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #227755; 
+} 
+
+div#hmenu ul a:active{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #227755; 
+} 
+
+div#hmenu ul a:hover{ 
+   margin: 0; 
+   padding: .3em .4em .3em .4em; 
+   text-decoration: none; 
+   font-weight: bold; 
+   font-size: medium; 
+   color: #f6f0cc; 
+   background-color: #227755; 
+}
+
+.textareastyle {
+	overflow:auto;
+	resize:none;
+	height: 150px;
+	max-height: 300px;
+	border-radius: 15px;
+}
+
+.tablestyle {
+	 clear: both;
+	  WIDTH:50%;
+	border-collapse:collapse;
+    /* only out border for table
+    border-style: solid;
+    border-width: 1px;*/
+}
+.thstyle{
+	text-align:left;
+	 WIDTH:10%;
+}
+.trstyle{
+	WIDTH:40%;
+	text-align:left;
+}
+.tablestyleSmall{
+	 clear: both;
+	  WIDTH:25%;
+	border-collapse:collapse;
+}
+.buttonStyle{
+	height: 40px; 
+	width:80px; 
+	text-align: center; 
+	color: blue;
+}

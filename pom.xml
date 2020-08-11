@@ -99,13 +99,13 @@
 			<artifactId>spring-test</artifactId>
 			<version>${spring.version}</version>
 			<scope>test</scope>
-		</dependency> -->
+		</dependency> 
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test-mvc</artifactId>
 			<version>1.0.0.M1</version>
 			<scope>test</scope>
-		</dependency>
+		</dependency>-->
 		<!-- adding now -->
 		<dependency>
 			<groupId>commons-fileupload</groupId>

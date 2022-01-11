@@ -72,7 +72,7 @@
 		</center>
 		<div style="text-align: center">
 			<br>
-			<img src="images/user.jpg" height=150 width=150 />
+			<img src="images/aikya.jpg" height=150 width=150 />
 		</div>
 		<form:form action="login.do" name="loginForm" method="POST">
 			<center>
